@@ -748,8 +748,9 @@ def hapus_barang():
     print("=" * 41)
     print("         Data berhasil di hapus")
     print("=" * 41)
+  
     
-
+#ini adalah main sistem perulangan program
 if __name__ == "__main__":
     while True:
         chooseLogin()
